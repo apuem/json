@@ -1,10 +1,14 @@
 # json
 
-## About apuem
-Lorem Ipsum dolor atem
+## About Documents - apuem
+Coming soon...
 
 ## About JSON
-Lorem Ipsum dolor atem
+Coming soon...
 
 ## How to open .json
-Lorem Ipsum dolor atem
+1. Microsoft Visual Studio Code
+2. Coming soon...
+
+## How to access via JavaScript
+Coming soon...
